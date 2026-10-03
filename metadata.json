@@ -1,0 +1,6 @@
+{
+  "name": "VIORA AI",
+  "description": "Turn your projects into proof. Viora reviews your resume, GitHub projects, and technical understanding to create a personalized learning path for your career goal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
